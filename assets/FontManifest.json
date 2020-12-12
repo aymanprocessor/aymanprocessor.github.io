@@ -1,0 +1,26 @@
+[
+    {
+        "family": "MaterialIcons",
+        "fonts": [
+            {
+                "asset": "fonts/MaterialIcons-Regular.ttf"
+            }
+        ]
+    },
+    {
+        "family": "Ubuntu",
+        "fonts": [
+            {
+                "asset": "fonts/Ubuntu-Regular.ttf"
+            },
+            {
+                "asset": "fonts/Ubuntu-Bold.ttf",
+                "weight": 700
+            },
+            {
+                "asset": "fonts/Ubuntu-Medium.ttf",
+                "weight": 600
+            }
+        ]
+    }
+]
